@@ -1,4 +1,12 @@
+Name: SUJIT KUMAR VERMA
+Company: CODTECH IT SOLUTIONS
+ID:CT08DS2342
+Duration : June to July 2024
+Mentor: Neela Santhosh Kumar
+
+
 # CODTECH-TASK1
+
 
 To Do List
 

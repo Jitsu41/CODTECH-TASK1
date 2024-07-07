@@ -22,3 +22,6 @@ For Local Storage: Web Dev Simplified Blog
 
 WEBSITE DEMO
 
+![99399713-0844b900-290c-11eb-8d7c-1199319b4a9e](https://github.com/Jitsu41/CODTECH-TASK1/assets/169130334/d4c161ed-1121-476e-91f1-20ae55640d51)
+
+
